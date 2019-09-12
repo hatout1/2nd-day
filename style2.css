@@ -1,0 +1,12 @@
+header {
+    background-color: aquamarine;
+    table-layout: auto;
+    text-align: left;
+    
+}
+a {
+    text-align: right;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+}
+
